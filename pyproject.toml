@@ -1,0 +1,17 @@
+[project]
+name = "pwlk"
+version = "0.0.1"
+authors = [
+  { name="Pawlicki Loïc" },
+]
+description = "Personnal utility toolbox package"
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/Lpwlk/pwlk"
